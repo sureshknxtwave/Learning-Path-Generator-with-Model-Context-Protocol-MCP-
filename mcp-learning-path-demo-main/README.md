@@ -9,7 +9,7 @@ This project is a Streamlit-based web application that generates personalized le
 - 📁 Google Drive integration for document storage
 - 📝 Notion integration for note-taking and organization
 - 🚀 Real-time progress tracking
-- 🎨 User-friendly Streamlit interface
+- 🎨 User-friendly Streamlit interface.
 
 ## Prerequisites
 
